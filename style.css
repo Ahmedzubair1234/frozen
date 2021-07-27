@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar-brand{
+	font-family: 'Patrick Hand SC', cursive;
+	letter-spacing: 1px;
+	font-size: 2rem;
+	color: #ff5512 !important;
+}
+.active{
+	color: #ff5512 !important;
+}
+.ban{
+	background: url(img/lunchcopy.jpg)no-repeat;
+	height: 85vh;
+	width: 100%;
+	background-size: cover;
+}
